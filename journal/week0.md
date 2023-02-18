@@ -6,7 +6,7 @@
 
 I have installed the Gitpod version and the local machine AWS CLi on Windows and Linux.
 
-*** Setup as the root user on AWS, not best practice will need to be changed to a less privilaged account. ***
+* * Setup as the root user on AWS, not best practice will need to be changed to a less privilaged account. * *
 
 #### Linux Install
 
