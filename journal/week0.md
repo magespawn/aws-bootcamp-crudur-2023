@@ -4,6 +4,8 @@
 
 ### Install AWS command Line
 
+I have installed the Gitpod version and the local machine AWS CLi
+
 Ouput from aws --version
 
 magespawn@Firefly:~$ aws --version
