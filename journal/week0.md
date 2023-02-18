@@ -20,7 +20,7 @@ Ouput from aws --version
 magespawn@Firefly:~$ aws --version
 aws-cli/2.10.0 Python/3.9.11 Linux/5.19.0-31-generic exe/x86_64.ubuntu.22 prompt/off
 
-!.[Installing AWS CLI Linux].(assets/AWSLinuxInstallProf2023-02-18_11-58.png)
+![Installing AWS CLI Linux](assets/AWSLinuxInstallProf2023-02-18_11-58.png)
 
 #### Windows Install
 
