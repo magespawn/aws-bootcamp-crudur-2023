@@ -6,7 +6,7 @@ tasks:
       cd /workspace &&
       curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o awscli.zip &&
       unzip awscli.zip &&
-      sudo ./aws/install
+      sudo ./aws/install -A
 vscode:
   extensions:
     - 42Crunch.vscode-openapi
